@@ -13,7 +13,7 @@
   "dependencies": {
     "boom": "7.x.x",
     "cryptiles": "4.x.x",
-    "hawk": "7.x.x",
+    "hawk": "7.0.10",
     "hoek": "6.x.x",
     "iron": "5.x.x",
     "joi": "14.x.x",
